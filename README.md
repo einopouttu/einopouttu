@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with **Python, CSS, Django, Javascript**
 
-- 📫 How to reach me **eino.pouttu@gmail.com**
-
 - ⚡ Fun fact **I don't put pineapple on my pizza**
 
 <h3 align="left">Connect with me:</h3>
